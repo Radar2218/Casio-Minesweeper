@@ -5,5 +5,5 @@ Minesweeper for the Casio FX-CG50
 Copy minesweeper.g3a onto yout FX-CG50
 
 # build
-Run the following command in your terminal (requires make):
-> make
+- Copy the clone the repository into the projects folder of [libfxcg](https://github.com/Jonimoose/libfxcg)
+- Run make in the project root folder
